@@ -1,5 +1,5 @@
 """
-This is the add file.
+This is the addition file.
 """
 
 def add(x, y):
